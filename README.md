@@ -1,3 +1,3 @@
 # hello-world
 
-name : girish
+name : girish chandra
